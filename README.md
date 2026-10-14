@@ -31,7 +31,7 @@ I'm an Information Technology student at City College of Calamba with hands-on e
 ## 🎓 Certifications
 - Cisco Networking Academy — Data Analytics Essentials
 - freeCodeCamp — Python Developer Certification
-- Google Data Analytics — Coursera
+- Coursera — Google Data Analytics
 - Neo4j — Graph Data Science Certification
 
 ## 🏆 Achievements
