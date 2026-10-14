@@ -1,115 +1,47 @@
-# Hi there, I'm David Andrei Fornis 👋
+# Hi, I'm David Andrei G. Fornis 👋
 
-### Aspiring Data Analyst | BS Information Technology | SQL • Python • Excel • Data Visualization
+### Aspiring Data Analyst | SQL • Python • Excel • Power BI
 
-I enjoy turning raw data into meaningful insights that help people make better decisions. My experience ranges from collecting and validating real-world government data to cleaning, analyzing, and visualizing datasets using SQL, Python, and Excel.
-
-Currently, I am pursuing a **Bachelor of Science in Information Technology** while building projects that demonstrate practical data analytics, database management, and reporting skills.
-
----
+I'm an Information Technology student at City College of Calamba with hands-on experience in data collection, validation, database management, and analytics projects. I enjoy working with data to identify insights, improve information management, and support better decision-making.
 
 ## 📊 About Me
+- 🎓 BS Information Technology student (2023–2027)
+- 📈 Interested in Data Analytics and Business Intelligence
+- 🗃️ Experienced in handling real-world datasets and structured databases
+- 📊 Building projects in data analysis, reporting, and visualization
+- 🎯 Seeking opportunities in Data Analytics and Business Intelligence
 
-- 📍 Based in the Philippines
-- 🎓 BS Information Technology – City College of Calamba
-- 📈 Passionate about Data Analytics and Business Intelligence
-- 🗃️ Experienced in data collection, validation, cleaning, and reporting
-- 📚 Continuously learning new analytical tools and techniques
-- 💼 Seeking opportunities as a **Junior Data Analyst**, **Data Analyst Intern**, or **Business Intelligence Analyst**
+## 🛠️ Skills & Tools
+- **Analytics:** Excel, SQL, Python, Power BI, Data Cleaning, Data Validation
+- **Python Libraries:** Pandas, NumPy, Matplotlib
+- **Databases:** MySQL, Neo4j, Database Design
+- **Programming:** PHP, JavaScript, Java, C, C++
+- **Tools:** Git, GitHub, VS Code, Microsoft Office
 
----
+## 🚀 Featured Projects
 
-## 💻 Technical Skills
+**DMW Application System with Analytics**
+- Developed backend components for centralized application and document management.
+- Implemented analytics features to support monitoring and reporting.
 
-### Data Analytics
-- SQL (MySQL)
-- Python (Pandas, NumPy, Matplotlib)
-- Microsoft Excel
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Validation
-- Data Reporting
-- Dashboard Development
+**Optical Clinic Booking System with Patient Monitoring**
+- Designed a MySQL database for organized patient records.
+- Improved data consistency and information retrieval through structured data management.
 
-### Database
-- MySQL
-- Database Design
-- Relational Databases
-- Data Management
+## 🎓 Certifications
+- Cisco Networking Academy — Data Analytics Essentials
+- freeCodeCamp — Python Developer Certification
+- Google Data Analytics — Coursera
+- Neo4j — Graph Data Science Certification
 
-### Programming
-- Python
-- JavaScript
-- PHP
-- C
-- C++
+## 🏆 Achievements
+- Most Innovative Project — I-SEE YOU
+- Best Overall Project — DCI Week Tech Expo 2026
 
-### Web Development
-- HTML
-- CSS
-- Tailwind CSS
-- Node.js
-- MongoDB
+## 📫 Connect With Me
+- 🌐 [Portfolio](https://davidandreifornis-lgtm.github.io/Portfolio-Website/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-andrei-fornis-b9876b411/)
+- 📧 [Email](mailto:davidandreifornis@gmail.com)
+- 💻 [GitHub](https://github.com/davidandreifornis-lgtm)
 
-### Tools
-- Git & GitHub
-- Visual Studio Code
-- XAMPP
-- Microsoft Office
-- Google Workspace
-
----
-
-🏆 **Awards**
-- Most Innovative Project
-- Best Overall Project
-
----
-
-# 📜 Certifications
-
-- Cisco Data Analytics Essentials
-- freeCodeCamp Python Developer Certification
-
----
-
-# 🎯 What I'm Currently Learning
-
-- Advanced SQL
-- Power BI
-- Tableau
-- Python for Data Analytics
-- Machine Learning Fundamentals
-- Business Intelligence
-
----
-
-# 📈 GitHub Goals
-
-This GitHub serves as my portfolio where I continuously upload projects involving:
-
-- SQL Analysis
-- Python Data Analytics
-- Data Cleaning
-- Exploratory Data Analysis
-- Dashboards
-- Automation
-- Database Projects
-- Real-world Business Insights
-
----
-
-# 📫 Let's Connect
-
-🌐 Portfolio  
-https://davidandreifornis-lgtm.github.io/Portfolio-Website/
-
-💼 LinkedIn  
-https://www.linkedin.com/in/david-andrei-fornis-b9876b411/
-
-📧 Email  
-davidandreifornis@gmail.com
-
----
-
-> *"Good data tells a story. Great analysis helps people make better decisions."*
+*Turning data into insights and insights into better decisions.*
